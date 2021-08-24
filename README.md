@@ -11,6 +11,8 @@ Kevin Barrera
 
 Comprobar las ecuaciones de la inductancia equivalente para conexiones de inductores en serie y paralelo.
 
+Establecer y explicar la diferencia en transitorios de inductancia e inductancia en circuitos electricos.
+
 # 3.MARCO TEORICO
 ![Untitled](https://user-images.githubusercontent.com/84421020/130650831-3c0afa1c-5d2e-4cc6-bf53-72d0d1ae73c0.jpg)
 
