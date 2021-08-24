@@ -29,6 +29,7 @@ Kevin Barrera
 ![](https://github.com/Kevinsan21/pictures-deber-1P3/blob/main/Capitulo%2014_page-0005.jpg)
 
 # 5.VIDEO
+https://www.youtube.com/watch?v=np_fQrfpZAI
 # 6.CONCLUSIONES
 Se le llama inductancia al campo magnetico que crea  al pasar a traves de una bobina de hilo conductor enrollado  alrededor de un inductor, el inductor puede ser utilizado para diferenciar señales rapidas y lentas.
 Tambien se define como la oposicion de un elemento conductor a cambios en la corriente que circula a traves de ella.
