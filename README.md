@@ -1,11 +1,14 @@
 # Deber-1-P3
 # INTEGRANTES
 
-Vanessa Cayambe
+Kevin Barrera
 
 Jennifer Beltrán
 
-Kevin Barrera
+
+Vanessa Cayambe
+
+
 # 1.TEMA
 # 2.OBJETIVOS
 Describir el proceso para desarrollar ejercicios de una forma ordenada y tecnica de autoinduccion e induccion eletromagnetica.
