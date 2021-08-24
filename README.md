@@ -1,8 +1,11 @@
 # Deber-1-P3
 # INTEGRANTES
-.Vanessa Cayambe
-.Jennifer Beltrán
-.Kevin Barrera
+
+Vanessa Cayambe
+
+Jennifer Beltrán
+
+Kevin Barrera
 # 1.TEMA
 # 2.OBJETIVOS
 # 3.MARCO TEORICO
