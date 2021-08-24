@@ -9,6 +9,8 @@ Kevin Barrera
 # 1.TEMA
 # 2.OBJETIVOS
 # 3.MARCO TEORICO
+![Untitled](https://user-images.githubusercontent.com/84421020/130650831-3c0afa1c-5d2e-4cc6-bf53-72d0d1ae73c0.jpg)
+
 # 4.RESOLUCION DE EJERCICIOS
 ![kevin_1](https://user-images.githubusercontent.com/84421020/130638560-d621a5a3-3e0e-4965-b674-30e7cd1d0689.jpg)
 ![kevin_2](https://user-images.githubusercontent.com/84421020/130638587-ee8affc4-58a5-4c80-8361-7d4db17b66a4.jpg)
