@@ -10,8 +10,13 @@ Kevin Barrera
 # 2.OBJETIVOS
 # 3.MARCO TEORICO
 # 4.RESOLUCION DE EJERCICIOS
-
-
+![kevin_1](https://user-images.githubusercontent.com/84421020/130638560-d621a5a3-3e0e-4965-b674-30e7cd1d0689.jpg)
+![kevin_2](https://user-images.githubusercontent.com/84421020/130638587-ee8affc4-58a5-4c80-8361-7d4db17b66a4.jpg)
+![kevin_3](https://user-images.githubusercontent.com/84421020/130638629-059177e6-21ec-400d-868a-a68923b90b9e.jpg)
+![kevin_4](https://user-images.githubusercontent.com/84421020/130638654-77fedfa9-55b7-4f18-9d29-70baeae1875e.jpg)
+![kevin_5](https://user-images.githubusercontent.com/84421020/130638687-896cc781-d320-442b-96bd-ee9920a19a12.jpg)
+![kevin_6](https://user-images.githubusercontent.com/84421020/130638740-57f909b9-d1b2-4980-89e8-22505b99c5fd.jpg)
+![kevin_7](https://user-images.githubusercontent.com/84421020/130638802-99177640-072d-4ec5-9c1d-4c9001c4c488.jpg)
 ![Circuitosdeber1_P3_11](https://user-images.githubusercontent.com/84421370/130549778-3fdff29b-f2c6-4220-b230-89b224902c85.jpg)
 ![Circuitosdeber1_P3_12](https://user-images.githubusercontent.com/84421370/130549832-84db0c66-fb51-4efd-9611-b88a88f823d5.jpg)
 ![Circuitosdeber1_P3_13](https://user-images.githubusercontent.com/84421370/130549848-8c78b85d-5df2-453c-a542-63314b5469f8.jpg)
