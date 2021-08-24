@@ -8,6 +8,7 @@ Jennifer Beltrán
 Kevin Barrera
 # 1.TEMA
 # 2.OBJETIVOS
+Describir el proceso para desarrollar ejercicios de una forma ordenada y tecnica de autoinduccion e induccion eletromagnetica.
 
 Comprobar las ecuaciones de la inductancia equivalente para conexiones de inductores en serie y paralelo.
 
