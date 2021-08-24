@@ -1,9 +1,14 @@
 # Deber-1-P3
 # INTEGRANTES
+.Vanessa Cayambe
+.Jennifer Beltrán
+.Kevin Barrera
 # 1.TEMA
 # 2.OBJETIVOS
 # 3.MARCO TEORICO
 # 4.RESOLUCION DE EJERCICIOS
+
+
 ![Circuitosdeber1_P3_11](https://user-images.githubusercontent.com/84421370/130549778-3fdff29b-f2c6-4220-b230-89b224902c85.jpg)
 ![Circuitosdeber1_P3_12](https://user-images.githubusercontent.com/84421370/130549832-84db0c66-fb51-4efd-9611-b88a88f823d5.jpg)
 ![Circuitosdeber1_P3_13](https://user-images.githubusercontent.com/84421370/130549848-8c78b85d-5df2-453c-a542-63314b5469f8.jpg)
@@ -14,6 +19,8 @@
 ![Circuitosdeber1_P3_18](https://user-images.githubusercontent.com/84421370/130549895-ec67bf64-45bf-4292-aca8-61102c615c7d.jpg)
 ![Circuitosdeber1_P3_19](https://user-images.githubusercontent.com/84421370/130549903-cfb46765-4591-408c-877d-76b8b8b841e1.jpg)
 ![Circuitosdeber1_P3_20](https://user-images.githubusercontent.com/84421370/130549911-fb406e00-e1c7-43f8-9497-8475eb6bbe72.jpg)
+
+
 # 5.VIDEO
 # 6.CONCLUSIONES
 # 7.BIBLIOGRAFIA
