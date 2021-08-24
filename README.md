@@ -30,5 +30,6 @@ Kevin Barrera
 
 # 5.VIDEO
 # 6.CONCLUSIONES
-# 7.BIBLIOGRAFIA
+Se le llama inductancia al campo magnetico que crea  al pasar a traves de una bobina de hilo conductor enrollado  alrededor de un inductor, el inductor puede ser utilizado para diferenciar señales rapidas y lentas.
+# 7.BIBLIOGRAFIA una corriente electrica 
 Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
