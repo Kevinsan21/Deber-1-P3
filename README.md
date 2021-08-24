@@ -14,7 +14,12 @@ Comprobar las ecuaciones de la inductancia equivalente para conexiones de induct
 Establecer y explicar la diferencia en transitorios de inductancia e inductancia en circuitos electricos.
 
 # 3.MARCO TEORICO
+
+CAPITULO 13
 ![Untitled](https://user-images.githubusercontent.com/84421020/130650831-3c0afa1c-5d2e-4cc6-bf53-72d0d1ae73c0.jpg)
+
+CAPITULO 14
+![Untitled (2)](https://user-images.githubusercontent.com/84421020/130654123-ccfab022-6441-48c6-96cf-6a206792700f.jpg)
 
 # 4.RESOLUCION DE EJERCICIOS
 ![kevin_1](https://user-images.githubusercontent.com/84421020/130638560-d621a5a3-3e0e-4965-b674-30e7cd1d0689.jpg)
