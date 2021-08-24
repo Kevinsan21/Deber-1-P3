@@ -22,7 +22,11 @@ Kevin Barrera
 ![Circuitosdeber1_P3_18](https://user-images.githubusercontent.com/84421370/130549895-ec67bf64-45bf-4292-aca8-61102c615c7d.jpg)
 ![Circuitosdeber1_P3_19](https://user-images.githubusercontent.com/84421370/130549903-cfb46765-4591-408c-877d-76b8b8b841e1.jpg)
 ![Circuitosdeber1_P3_20](https://user-images.githubusercontent.com/84421370/130549911-fb406e00-e1c7-43f8-9497-8475eb6bbe72.jpg)
-
+![](https://github.com/Kevinsan21/pictures-deber-1P3/blob/main/Capitulo%2014_page-0001.jpg)
+![](https://github.com/Kevinsan21/pictures-deber-1P3/blob/main/Capitulo%2014_page-0002.jpg)
+![](https://github.com/Kevinsan21/pictures-deber-1P3/blob/main/Capitulo%2014_page-0003.jpg)
+![](https://github.com/Kevinsan21/pictures-deber-1P3/blob/main/Capitulo%2014_page-0004.jpg)
+![](https://github.com/Kevinsan21/pictures-deber-1P3/blob/main/Capitulo%2014_page-0005.jpg)
 
 # 5.VIDEO
 # 6.CONCLUSIONES
